@@ -1,5 +1,0 @@
-```css
-   body { font-family: sans-serif; display: flex; justify-content: center; padding-top: 50px; }
-   .container { width: 300px; padding: 20px; border: 1px solid #ccc; }
-   input { width: 100%; margin-bottom: 10px; padding: 10px; box-sizing: border-box; }
-   button { width: 100%; padding: 10px; background: green; color: white; border: none; }
